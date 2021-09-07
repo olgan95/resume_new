@@ -1,0 +1,148 @@
+.upper-container {
+  background-color: #E8ECF1;
+  padding-top: 100px;
+  position: relative;
+}
+
+.middle-container {
+  background-color: #B5CFD8;
+  padding: 20px 100px 20px 100px;
+}
+
+.bottom-container {
+  background-color: #6C737E;
+  padding: 100px;
+
+  line-height: 2;
+  /* padding-top: 100px;
+  padding-bottom: 50px;
+  padding-left: 100px;
+  padding-right: 100px; */
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 25%;
+  bottom: 400px;
+}
+
+.top-cloud {
+  position: absolute;
+  /* right: 400px; */
+  right: 30%;
+  top: 50px;
+}
+
+/* .mountain {
+  position: absolute;
+  top: 200px;
+} */
+
+h1 {
+  margin: 50px auto 0 auto;
+  text-align: center;
+  /* display: inline-block; */
+  /* width: 30%; */
+  /* margin: 0 auto; */
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+  color: #7393A7;
+  /* line-height: 2; */
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #7393A7;
+  /* margin: 50px auto 0 auto; */
+  margin: 50px auto 50px auto;
+
+  /* font-weight: normal; */
+}
+
+.job{
+  margin-bottom: 0;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #6C737E;
+}
+
+a {
+color: #7393A7;
+margin-left: 30px;
+margin-right: 30px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: justify;
+  line-height: 2;
+}
+
+.profile{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+  /* text-align: justify; */
+}
+
+.contact-me{
+  width: 50%;
+  margin: 100px auto 50px auto;
+  line-height: 2;
+}
+
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 20px;
+}
+
+.logo-tableau {
+width: 10%;
+float: left;
+margin: 40px;}
+
+.logo-alteryx {
+width: 10%;
+float: left;
+margin: 40px;}
+
+hr {
+  border-style: dotted none none;
+  border-color: #7393A7;
+  border-width: 5px;
+  width: 5%;
+}
+
+.button {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 20px;
+   background-color: #6C737E;
+   text-shadow: 1px 1px 20px #000000;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.button:hover {
+   background: #7393A7;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+.above-button {
+  margin-bottom: 100px;
+}
